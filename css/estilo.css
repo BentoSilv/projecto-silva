@@ -112,3 +112,8 @@ body {
 .lista__link:hover {
     background-color: #167bf7;
 }
+.lista__link {
+    display: flex;
+    list-style-type: none;
+    color: var(--branco-principal);
+}
